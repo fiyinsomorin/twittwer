@@ -1,1 +1,3 @@
- hello i am writing this from my "my-branch" branch. I will attempt to merge this branch to my "main" branch.
+ # hello i am writing this from my "my-branch" branch. I will attempt to merge this branch to my "main" branch.
+
+# i originally had some issues: I accidentally commited and pushed this file using the main branch instead of my-branch, so i used git cherry-pick to move this file back to my-branch. Now i want to see if this current note reflect in the main branch like it will for my-branch
